@@ -6,4 +6,4 @@ It can also be used to rearrange the words while maintaining syntax from a singl
 
 I feel as though the philosophically interesting aspect of this project is seeing how one of the most well known poems' syntax retains its value as the words inhabiting its structure are rearranged or replaced with others of the same nature. By doing so we can maybe start to understand what *poetry* is, structurally... 
 
-The script outputs text which seems poetic in nature, despite not usually making very much sense (though "Howl" unaltered does not make total sense at all times itself.) In being poetic, I would allege that it does in fatc output *poetry* however forced it may sound.
+The script outputs text which seems poetic in nature, despite not usually making very much sense (though "Howl" unaltered does not make total sense at all times itself.) In being poetic, I would allege that it does in fact output *poetry* however forced it may sound.

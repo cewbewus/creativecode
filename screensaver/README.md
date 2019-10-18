@@ -1,4 +1,4 @@
-# BOVInterdimensional
+# BOVINterdimensional
 
 Here's a lil' screensaver I whipped up of a holographic cow rotating and flying through 3 dimensions, leaving a trail of beautiful bovine distruction everywhere it goes.
 

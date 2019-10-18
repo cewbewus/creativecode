@@ -56,11 +56,11 @@ function draw() {
   
   translate(0, 0, -maxZ / 2 + maxZ / 20);
 
-  let perspectiveX = map(mouseX, 0, width, -HALF_PI / 30, HALF_PI / 30);
+  let perspectiveX = map(0, 0, width, -HALF_PI / 30, HALF_PI / 30);
   rotateY(perspectiveX);
-  let perspectiveY = map(mouseY, 0, height, HALF_PI / 30, -HALF_PI / 30);
+  let perspectiveY = map(0, 0, height, HALF_PI / 30, -HALF_PI / 30);
   rotateX(perspectiveY);
-  let perspectiveZ = map(mouseY, 0, height, maxZ / 10, 0);
+  let perspectiveZ = map(0, 0, height, maxZ / 10, 0);
   translate(0, 0, perspectiveZ);
 
   //these settings adapted from https://p5js.org/reference/#/p5/loadModel
